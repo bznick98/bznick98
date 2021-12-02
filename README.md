@@ -11,4 +11,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick19981122" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+![](https://visitor-badge.glitch.me/badge?page_id=bznick98.bznick98)
