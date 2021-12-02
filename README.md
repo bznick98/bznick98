@@ -1,4 +1,4 @@
-[![Zongnan Bao's github stats](https://github-readme-stats.vercel.app/api?username=bznick98&hide=issues,prs&show_icons=true&theme=vision-friendly-dark)](https://github.com/bznick98)
+[![Zongnan Bao's github stats](https://github-readme-stats.vercel.app/api?username=bznick98&hide=issues,prs&show_icons=true&theme=gruvbox)](https://github.com/bznick98)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bznick98)](https://github.com/anuraghazra/github-readme-stats)
