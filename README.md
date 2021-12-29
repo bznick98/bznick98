@@ -9,9 +9,9 @@
   <a href="https://github.com/bznick98">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bznick98&hide=issues,prs&show_icons=true&theme=gruvbox" />
   </a>
-  <a href="https://github.com/bznick98">
+<!--   <a href="https://github.com/bznick98">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick19981122" />
-  </a>
+  </a> -->
  
 </p>
 
