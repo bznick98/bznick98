@@ -15,6 +15,7 @@
  
 </p>
 
+<header>
 <style>
     #stat{
         font-family:    'Trebuchet MS', sans-serif;
@@ -34,6 +35,8 @@
     }
  
 </style>
+</header>
+<body>
 <center>
 <div id="stat"> Unsplash Stats </div>
 <span id="views"></span> <span id="vtxt"> views</span> <br>
@@ -56,6 +59,7 @@ async function loadStats() {
 };
 loadStats();
 </script>
+</body>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bznick98.bznick98)
 
