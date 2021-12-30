@@ -15,28 +15,6 @@
  
 </p>
 
-<header>
-<style>
-    #stat{
-        font-family:    'Trebuchet MS', sans-serif;
-        font-size:      20px;
-        font-weight:    bold;
-    }
-    #views, #downloads{
-        color: gold;
-        font-family:    'Courier New', monospace;
-        font-size:      15px;
-        font-weight:    bold;
-    }
-    #vtxt, #dtxt{
-        font-family:    'Courier New', monospace;
-        font-size:      15px;
-        font-weight:    bold;
-    }
- 
-</style>
-</header>
-<body>
 <center>
 <div id="stat"> Unsplash Stats </div>
 <span id="views"></span> <span id="vtxt"> views</span> <br>
@@ -59,7 +37,6 @@ async function loadStats() {
 };
 loadStats();
 </script>
-</body>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bznick98.bznick98)
 
