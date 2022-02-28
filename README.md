@@ -18,13 +18,12 @@ Other        2 hrs 22 mins   ███▒░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+  
 <!--   <a href="https://github.com/bznick98">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick19981122" />
   </a> -->
  
 </p>
-
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bznick98.bznick98)
 
