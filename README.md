@@ -12,12 +12,11 @@
   <!--START_SECTION:waka-->
 
 ```text
-C++          5 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.69 %
-Python       5 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
-Other        2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+Python       45 hrs 31 mins  ███████████████▒░░░░░░░░░   61.68 %
+Other        10 hrs 21 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
 ```
 
-  <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--   <a href="https://github.com/bznick98">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick19981122" />
   </a> -->
