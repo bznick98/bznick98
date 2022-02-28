@@ -9,13 +9,7 @@
   <a href="https://github.com/bznick98">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bznick98&hide=issues,prs&show_icons=true&theme=gruvbox" />
   </a>
-<!--   <a href="https://github.com/bznick98">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick19981122" />
-  </a> -->
- 
-</p>
-
-<!--START_SECTION:waka-->
+  <!--START_SECTION:waka-->
 
 ```text
 C++          5 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.69 %
@@ -23,7 +17,14 @@ Python       5 hrs 45 mins   ████████▒░░░░░░░░
 Other        2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
 ```
 
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
+<!--   <a href="https://github.com/bznick98">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nick19981122" />
+  </a> -->
+ 
+</p>
+
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bznick98.bznick98)
 
