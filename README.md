@@ -16,6 +16,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+C++          5 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.69 %
+Python       5 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
+Other        2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+```
+
 <!--END_SECTION:waka-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=bznick98.bznick98)
