@@ -10,14 +10,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bznick98&hide=issues,prs&show_icons=true&theme=gruvbox" />
   </a>
   <!--START_SECTION:waka-->
-
-```text
-C++          5 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.69 %
-Python       5 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
-Other        2 hrs 22 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-```
-
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
   
  
 </p>
