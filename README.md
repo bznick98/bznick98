@@ -9,7 +9,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2022 - To: 24 April 2022
+From: 18 April 2022 - To: 25 April 2022
 
 C++          1 hr 2 mins     █████████████████████░░░░   84.28 %
 C            7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
