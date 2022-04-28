@@ -9,12 +9,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2022 - To: 27 April 2022
-
-C++          10 mins         ██████████████████░░░░░░░   71.88 %
-Git Config   3 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Makefile     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
