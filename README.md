@@ -9,10 +9,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2022 - To: 23 May 2022
-
-C#     16 mins         ██████████████████████▒░░   89.37 %
-YAML   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
