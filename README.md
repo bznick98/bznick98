@@ -9,7 +9,10 @@
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 19 May 2022 - To: 26 May 2022
+
+C#    0 secs          ███████████████████████░░   91.83 %
+C++   0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
 ```
 
 <!--END_SECTION:waka-->
