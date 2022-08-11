@@ -9,9 +9,14 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 03 August 2022 - To: 10 August 2022
+From: 04 August 2022 - To: 11 August 2022
 
-Python   5 mins          █████████████████████████   100.00 %
+Markdown   2 hrs 25 mins   ██████████████▒░░░░░░░░░░   57.07 %
+HTML       1 hr 9 mins     ██████▓░░░░░░░░░░░░░░░░░░   27.10 %
+YAML       38 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+Ruby       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+SCSS       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
