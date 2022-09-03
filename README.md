@@ -9,9 +9,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 26 August 2022 - To: 02 September 2022
+From: 27 August 2022 - To: 03 September 2022
 
-C++   1 hr 39 mins    █████████████████████████   100.00 %
+C++   1 hr 31 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
