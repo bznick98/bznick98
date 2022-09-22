@@ -9,11 +9,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 14 September 2022 - To: 21 September 2022
-
-Python   48 mins         █████████████████████░░░░   84.18 %
-Text     8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
