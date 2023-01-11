@@ -9,7 +9,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 04 January 2023 - To: 11 January 2023
+
+C++   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
