@@ -9,7 +9,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 06 January 2023 - To: 13 January 2023
+From: 07 January 2023 - To: 14 January 2023
 
 CMake         1 hr 44 mins    ████████████████▓░░░░░░░░   66.95 %
 C++           48 mins         ███████▓░░░░░░░░░░░░░░░░░   31.11 %
