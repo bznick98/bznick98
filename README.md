@@ -9,7 +9,12 @@
   <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 28 January 2023 - To: 04 February 2023
+
+YAML         8 mins          ███████████████▓░░░░░░░░░   63.01 %
+Markdown     2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
+HTML         2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
