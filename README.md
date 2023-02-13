@@ -9,7 +9,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 05 February 2023 - To: 12 February 2023
+From: 06 February 2023 - To: 13 February 2023
 
 Markdown     3 hrs 46 mins   ██████████░░░░░░░░░░░░░░░   40.59 %
 Python       3 hrs 19 mins   █████████░░░░░░░░░░░░░░░░   35.78 %
