@@ -9,14 +9,13 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 09 February 2023 - To: 16 February 2023
+From: 10 February 2023 - To: 17 February 2023
 
-Markdown     1 hr 28 mins    ██████████░░░░░░░░░░░░░░░   40.24 %
-YAML         1 hr 22 mins    █████████▒░░░░░░░░░░░░░░░   37.70 %
-HTML         37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.95 %
-SCSS         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Markdown     1 hr 39 mins    ████████████████░░░░░░░░░   63.67 %
+YAML         26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.04 %
+HTML         24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
+SCSS         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
