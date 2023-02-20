@@ -9,7 +9,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 12 February 2023 - To: 19 February 2023
+From: 13 February 2023 - To: 20 February 2023
 
 Markdown     2 hrs 57 mins   ██████████▓░░░░░░░░░░░░░░   42.17 %
 SCSS         2 hrs 55 mins   ██████████▒░░░░░░░░░░░░░░   41.69 %
