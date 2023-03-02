@@ -9,7 +9,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2023 - To: 01 March 2023
+From: 23 February 2023 - To: 02 March 2023
 
 Python     3 hrs 57 mins   ███████████████████▓░░░░░   79.19 %
 SCSS       45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.29 %
