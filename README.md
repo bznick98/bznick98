@@ -9,13 +9,9 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 02 March 2023 - To: 09 March 2023
+From: 03 March 2023 - To: 10 March 2023
 
-Python     3 hrs 39 mins   █████████████████████▓░░░   86.84 %
-SCSS       18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-YAML       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python   3 hrs 39 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
