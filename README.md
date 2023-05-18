@@ -20,5 +20,5 @@ No activity tracked
 </p>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=bznick98.bznick98) -->
-![](https://komarev.com/ghpvc/?username=bznick98&style=flat-square)
+![](https://komarev.com/ghpvc/?username=bznick98&style=for-the-badge)
 
