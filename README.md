@@ -9,11 +9,11 @@
   <!--START_SECTION:waka-->
 
 ```text
-From: 18 May 2023 - To: 25 May 2023
+From: 19 May 2023 - To: 26 May 2023
 
-Markdown   3 hrs 16 mins   ███████████████████████▓░   94.06 %
-SCSS       9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-YAML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Markdown   1 hr 51 mins    ██████████████████████▓░░   90.23 %
+SCSS       9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+YAML       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
