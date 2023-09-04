@@ -6,7 +6,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bznick98&&count_private=true&hide=issues,prs,contribs&show_icons=true&theme=gruvbox" />
   </a>
   
-  <!--START_SECTION:waka-->
+  <!--START_SECTION:waka
 
 ```txt
 From: 28 August 2023 - To: 04 September 2023
@@ -14,7 +14,7 @@ From: 28 August 2023 - To: 04 September 2023
 No activity tracked
 ```
 
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
   
  
 </p>
